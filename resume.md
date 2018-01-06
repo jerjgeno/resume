@@ -1,4 +1,4 @@
-% John Brzezicki 
+# John Brzezicki
 
 ## Web Developer
 
@@ -36,7 +36,7 @@ johnbrz@gmail.com
 
 ### LivnGiv, Inc.
 ### LAMP Developer, System Administrator, Tech Lead
-###July 2013 - July 2014
+### July 2013 - July 2014
 - Designed and maintained features for medium-scale LAMP application across multiple load-balanced AWS instances, used by several hundred users.
 - Acted as tech-lead, coordinating development with upper-management, and overseeing the work of two other developers.
 - Was responsible for system and database administration, keeping servers up-to-date and secure, as well as managing periodic data back-ups and system performance.
