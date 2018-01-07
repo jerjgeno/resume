@@ -11,9 +11,11 @@ johnbrz@gmail.com
 
 650 Edith Way, Long Beach, CA 90807
 
+johnbrz.com
+
 Summary:
 
--   Four years professional experience developing LAMP applications,
+-   Six years professional experience developing LAMP applications,
     managing Apache servers, and working with and within modern CMS
     frameworks;
 -   Excellent ability to communicate with management, engineering, and
@@ -25,11 +27,11 @@ Summary:
 
 Experience:
 
-eCyberDeck / Champions Cup Softball Tournament
+YuccaSoft
 
-Contract Web Developer
+Senior Web Developer
 
-November 2012 - June 2013 , August 2015 - Present
+January 2012 - June 2013 , August 2015 - Present
 
 -   Coded functionality for multiple web applications in Javascript,
     PHP, XML, and the ModX Content Management System.
