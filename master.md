@@ -26,11 +26,7 @@ johnbrz.com
 Experience:
 -----------
 
-### YuccaSoft 
-
-### Senior Web Developer
-
-### January 2012 - June 2013 , August 2015 - Present
+### YuccaSoft | Senior Web Developer | January 2012 - June 2013 , August 2015 - Present
 
 -   Coded functionality for multiple web applications in Javascript,
     PHP, XML, and the ModX Content Management System.
@@ -44,11 +40,7 @@ Experience:
     searcher and scheduler.
 -   Focused on readability and maintainability of code.
 
-### Insight Designs Web Solutions, LLC.
-
-### LAMP Developer, System Administrator
-
-### July 2014 - August 2015
+### Insight Designs Web Solutions, LLC. | LAMP Developer, System Administrator | July 2014 - August 2015
 
 -   Maintained dozens of web sites and servers across multiple
     environments, writing custom front-end and back-end code to fulfill
@@ -65,11 +57,7 @@ Experience:
     coworkers and clients on other projects with a wide variety of
     technical issues.
 
-### LivnGiv, Inc.
-
-### LAMP Developer, System Administrator, Tech Lead
-
-### July 2013 - July 2014
+### LivnGiv, Inc. | LAMP Developer, System Administrator, Tech Lead | July 2013 - July 2014
 
 -   Designed and maintained features for medium-scale LAMP application
     across multiple load-balanced AWS instances, used by several hundred
@@ -83,11 +71,7 @@ Experience:
     with iOS and Android mobile devices, and an employee-facing CMS for
     updating content easily.
 
-### Lazer Bearings
-
-### Co-founder
-
-### June 2007 - December 2008
+### Lazer Bearings | Co-founder | June 2007 - December 2008
 
 -   Built a skateboard-bearing business with a single other partner from
     the ground up, from initial conceptualization to placement in nine
