@@ -12,7 +12,8 @@ johnbrz@gmail.com
 
 johnbrz.com
 
-### Summary:
+Summary:
+--------
 
 -   Six years professional experience developing LAMP applications,
     managing Apache servers, and working with and within modern CMS
@@ -86,9 +87,7 @@ Experience:
 Education:
 ----------
 
-### University of California - Santa Cruz
-
-### Computational Mathematics Major
+### University of California - Santa Cruz | Computational Mathematics Major
 
 -   Completed third year of B.S. in Computational Mathematics, leaving
     school to start career.
