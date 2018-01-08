@@ -123,5 +123,3 @@ johnbrz.com
   - Codility Silver Certificate holder and Project Euler member.
   - Enjoys composing and performing music.
   - Conversational Polish speaker
-
-Copyright 2017 John Brzezicki

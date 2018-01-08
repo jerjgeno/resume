@@ -129,4 +129,3 @@ Skills / Interests:
 -   Enjoys composing and performing music.
 -   Conversational Polish speaker
 
-Copyright 2017 John Brzezicki
