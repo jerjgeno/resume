@@ -16,8 +16,7 @@ Summary:
 --------
 
 -   Six years professional experience developing LAMP applications,
-    managing Apache servers, and working with and within modern CMS
-    frameworks;
+    managing Apache servers, and working with modern CMS frameworks;
 -   Excellent ability to communicate with management, engineering, and
     customers;
 -   Intelligent, curious, and enthusiastic problem-solver;
@@ -32,15 +31,13 @@ Experience:
 -   Designed, coded, and maintained a single-page Angular web
     application to manage teams, update scores, and provide live results
     for an annual softball tournament attended by more than 400 players
-    and personnel, including a custom PHP back-end API.
--   Coded functionality for multiple web applications in Javascript,
-    PHP, XML, and the ModX Content Management System.
+    and personnel, including a custom API.
+-   Coded functionality for multiple LAMP applications, including using
+    the ModX Content Management System.
 -   Wrote a softball playoff-seeding calculator that integrated with
-    existing tournament system to increased time-cost efficiency per
-    season.
+    existing tournament system to increase time-cost efficiency.
 -   Implemented the Active.com golf tee-time API to build a tee-time
     searcher and scheduler.
--   Focused on readability and maintainability of code.
 
 ### Insight Designs Web Solutions, LLC. \| LAMP Developer, System Administrator \| July 2014 - August 2015
 
