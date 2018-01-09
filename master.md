@@ -29,13 +29,14 @@ Experience:
 
 ### YuccaSoft \| Senior Web Developer \| January 2012 - June 2013 , August 2015 - Present
 
+-   Designed, coded, and maintained a single-page Angular web
+    application to manage teams, update scores, and provide live results
+    for an annual softball tournament attended by more than 400 players
+    and personnel, including a custom PHP back-end API.
 -   Coded functionality for multiple web applications in Javascript,
     PHP, XML, and the ModX Content Management System.
--   Designed, coded, and maintained a single-page web application to
-    manage teams, update scores, and provide live results for an annual
-    softball tournament attended by more than 400 players and personnel.
 -   Wrote a softball playoff-seeding calculator that integrated with
-    existing tournament system to reduce administrative time-cost per
+    existing tournament system to increased time-cost efficiency per
     season.
 -   Implemented the Active.com golf tee-time API to build a tee-time
     searcher and scheduler.
