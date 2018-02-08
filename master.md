@@ -26,7 +26,7 @@ Summary:
 Experience:
 -----------
 
-### YuccaSoft \| Senior Web Developer \| January 2012 - June 2013 , August 2015 - Present
+### Freelance Web Developer \| January 2012 - June 2013 , August 2015 - Present
 
 -   Designed, coded, and maintained a single-page Angular web
     application to manage teams, update scores, and provide live results
