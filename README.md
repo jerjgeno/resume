@@ -4,7 +4,7 @@ John Brzezicki
 Web Developer
 -------------
 
-johnbrz@gmail.com
+johnbrz\@gmail.com
 
 310-561-4509
 
@@ -15,8 +15,9 @@ johnbrz.com
 Summary:
 --------
 
--   Highly motivated web developer with seven years professional experience developing LAMP applications,
-    managing Apache servers, and working with modern CMS frameworks.
+-   Highly motivated web developer with seven years professional
+    experience developing LAMP applications, managing Apache servers,
+    and working with modern CMS frameworks.
 
 Experience:
 -----------
@@ -28,30 +29,44 @@ Experience:
 
 ### Freelance Web Developer \| January 2012 - June 2013 , August 2015 - April 2018
 
--   Designed and maintained single-page Angular web
-    application to manage teams, update scores, and provide live results
-    for annual softball tournament attended by more than 400 players
-    and personnel.
+-   Designed and maintained single-page Angular web application to
+    manage teams, update scores, and provide live results for annual
+    softball tournament attended by more than 400 players and personnel.
 -   Wrote softball playoff-seeding calculator that integrated with
     existing tournament system to automate tournament results.
 -   Implemented Active.com golf tee-time RESTful API to build tee-time
     searcher and scheduler.
--   Programmed customized printer functions in BASIC for label printing machines.
+-   Programmed customized printer functions in BASIC for label printing
+    machines.
 
 ### Insight Designs Web Solutions, LLC. \| LAMP Developer, System Administrator \| July 2014 - August 2015
 
-- Maintained dozens of web sites and servers across multiple environments, writing custom front-end and back-end code to fulfill customer requirements.
-- Managed Wordpress, Magento, and Drupal sites, including legacy sites with outdated code-bases.
-- Communicated with clients personally to troubleshoot problems, offer solutions, and provide estimates on projects.
-- Wrote custom PHP and Bash scripts to launch scheduled tasks, maintain files, solve complicated formulas, and assess security vulnerabilities.
-- Acted as in-house technology consultant, helping coworkers and clients with a wide variety of technical issues.
+-   Maintained dozens of web sites and servers across multiple
+    environments, writing custom front-end and back-end code to fulfill
+    customer requirements.
+-   Managed Wordpress, Magento, and Drupal sites, including legacy sites
+    with outdated code-bases.
+-   Communicated with clients personally to troubleshoot problems, offer
+    solutions, and provide estimates on projects.
+-   Wrote custom PHP and Bash scripts to launch scheduled tasks,
+    maintain files, solve complicated formulas, and assess security
+    vulnerabilities.
+-   Acted as in-house technology consultant, helping coworkers and
+    clients with a wide variety of technical issues.
 
-### LivnGiv, Inc. \| LAMP Developer, System Administrator, Tech Lead \| July 2013 - July 2014
+### LivnGiv, Inc. \| LAMP Developer, System Administrator, Tech Lead \| July 2013 - July 2014
 
-- Designed and maintained features for medium-scale LAMP application across multiple load-balanced AWS instances, used by several hundred users.
-- Acted as tech-lead, coordinating development with upper-management, and overseeing the work of two other developers.
-- Assumed responsibility for system and database administration, keeping servers up-to-date and secure, as well as managing periodic data back-ups and system performance.
-- Improved-upon existing systems, adding to API point-of-sale system that interfaced with iOS and Android mobile devices, and employee-facing CMS for updating content easily.
+-   Designed and maintained features for medium-scale LAMP application
+    across multiple load-balanced AWS instances, used by several hundred
+    users.
+-   Acted as tech-lead, coordinating development with upper-management,
+    and overseeing the work of two other developers.
+-   Assumed responsibility for system and database administration,
+    keeping servers up-to-date and secure, as well as managing periodic
+    data back-ups and system performance.
+-   Improved-upon existing systems, adding to API point-of-sale system
+    that interfaced with iOS and Android mobile devices, and
+    employee-facing CMS for updating content easily.
 
 ### Lazer Bearings \| Co-founder \| June 2007 - December 2008
 
@@ -83,8 +98,8 @@ Skills / Interests:
     Drupal
 -   Front-end: HTML5/CSS3, Javascript/jQuery, Foundation/Bootstrap
     responsive frameworks, Smarty PHP Templating, Angular
--   Over 10 years of hobby experience in web development prior to starting
-    career.
+-   Over 10 years of hobby experience in web development prior to
+    starting career.
 -   Over 10 years of Linux use, including Bash shell scripting,
     server/database administration, managing virtual machines, and
     general troubleshooting.
