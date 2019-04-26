@@ -8,7 +8,6 @@ pandoc -s master.md -o master.md
 pandoc -s master.md -o README.md
 
 pandoc -s master.md -o JohnBrzezickiResume.txt
-pandoc -s master.md -t latex -o JohnBrzezickiResume.pdf
 pandoc -s master.md -o JohnBrzezickiResume.docx
 
 
