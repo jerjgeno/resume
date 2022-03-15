@@ -98,7 +98,7 @@ Skills / Interests:
 -   Back-end: Linux, Apache, MySQL, PHP, Git, Bash, Node, Wordpress,
     Magento, Drupal.
 -   Front-end: Angular, HTML5/CSS3, Javascript/jQuery,
-    Foundation/Bootstrap responsive frameworks. 
+    Foundation/Bootstrap responsive frameworks.
 -   Over a decade experience using Linux, including Bash shell
     scripting, server/database administration, managing virtual
     machines, and general troubleshooting.
