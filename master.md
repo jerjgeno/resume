@@ -4,30 +4,30 @@ John Brzezicki
 Web Developer
 -------------
 
-johnbrz\@gmail.com
+johnbrz@gmail.com
 
 310-561-4509
 
-650 Edith Way, Long Beach, CA 90807
+San Francisco, CA
 
 johnbrz.com
 
 Summary:
 --------
 
--   Highly motivated web developer with six years professional
+-   Highly motivated web developer with eight years professional
     experience developing LAMP applications, managing Apache servers,
     and working with modern CMS frameworks.
 
 Experience:
 -----------
 
-### Greenlane, LLC. \| Lead Web Developer, Magento and Shopify \| April 2018 - Present
+### Greenlane, LLC. | Lead Web Developer, Magento and Shopify | April 2018 - April 2020
 
 -   Lead Magento developer, Vapornation.com
 -   Lead Shopify developer, Vapor.com
 
-### Freelance Software and Design \| August 2015 - April 2018
+### Freelance Software and Design | August 2015 - April 2018
 
 -   Designed and maintained single-page Angular web application to
     manage teams, update scores, and provide live results for annual
@@ -40,7 +40,7 @@ Experience:
 -   Programmed custom label-printing functions for mobile label and
     sticker printers for use in the field.
 
-### Insight Designs Web Solutions, LLC. \| LAMP Developer, System Administrator \| July 2014 - August 2015
+### Insight Designs Web Solutions, LLC. | LAMP Developer, System Administrator | July 2014 - August 2015
 
 -   Maintained dozens of web sites and servers across multiple
     environments, writing custom front-end and back-end code to fulfill
@@ -50,12 +50,12 @@ Experience:
 -   Communicated with clients personally to troubleshoot problems, offer
     solutions, and provide estimates on projects.
 -   Wrote custom PHP and Bash scripts to launch scheduled tasks,
-    maintain files, solve complicated formulas, and assess security
-    vulnerabilities.
+    maintain files, solve complicated formulas, and assess
+    security vulnerabilities.
 -   Acted as in-house technology consultant, helping coworkers and
     clients with a wide variety of technical issues.
 
-### LivnGiv, Inc. \| LAMP Developer, System Administrator, Tech Lead \| July 2013 - July 2014
+### LivnGiv, Inc. | LAMP Developer, System Administrator, Tech Lead | July 2013 - July 2014
 
 -   Designed and maintained features for medium-scale LAMP application
     across multiple load-balanced AWS instances, used by several
@@ -69,7 +69,7 @@ Experience:
     that interfaced with iOS and Android mobile devices, and
     employee-facing CMS for updating content easily.
 
-### Lazer Bearings \| Co-founder \| June 2007 - December 2008
+### Lazer Bearings | Co-founder | June 2007 - December 2008
 
 -   Built skateboard-bearing business with a single other partner from
     the ground up, from initial conceptualization to placement in nine
@@ -84,13 +84,13 @@ Experience:
 Education:
 ----------
 
-### University of California - Santa Cruz \| Computational Mathematics Major
+### University of California - Santa Cruz | B.A. Pure Mathematics
 
--   Completed third year of B.S. in Computational Mathematics, leaving
-    school to start career.
 -   Coursework focused on problem-solving and abstract thinking.
--   Relevant Courses: Programming in Java, Multi-variable Calculus,
-    Advanced Linear Algebra, Real Analysis, Proofs and Problem-solving.
+-   Relevant Courses: Programming in Java, Programming in Python,
+    Mathematical Problem Solving, Linear Algebra, Ordinary Differential
+    Equations, Vector Calculus, Complex Analysis, Number Theory, Proofs
+    and Problem-solving.
 
 Skills / Interests:
 -------------------
@@ -98,11 +98,10 @@ Skills / Interests:
 -   Back-end: Linux, Apache, MySQL, PHP, Git, Bash, Node, Wordpress,
     Magento, Drupal.
 -   Front-end: Angular, HTML5/CSS3, Javascript/jQuery,
-    Foundation/Bootstrap responsive frameworks.
-    starting career.
--   Over a decade experience using Linux, including Bash shell scripting,
-    server/database administration, managing virtual machines,
-    and general troubleshooting.
+    Foundation/Bootstrap responsive frameworks. starting career.
+-   Over a decade experience using Linux, including Bash shell
+    scripting, server/database administration, managing virtual
+    machines, and general troubleshooting.
 -   Codility Silver Certificate holder and Project Euler member.
 -   Enjoys playing in rock and roll bands and shooting hoops.
 -   Conversational Polish speaker.
